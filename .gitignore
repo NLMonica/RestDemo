@@ -1,0 +1,5 @@
+data.txt
+db.sqlite3
+__pycache__
+django_env
+django_venv_win
